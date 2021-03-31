@@ -1,0 +1,7 @@
+h = 1000 # select an even number for honeycomb
+J = 1.0
+lattice = square
+integrator = mh
+model = ising
+q = 4
+beta = 10.0 #1.6  # 1.1
