@@ -1,0 +1,12 @@
+h = 20 # height
+J = 1.0
+save_EM = 1
+save_L = 0
+path_save = out/test/
+nbr_step = 30
+beta_low = 0.1
+beta_up = 1.0
+nbr_sample = 400 # set to h*h to have a sweep
+nbr_swap = 2000
+nbr_sweep = 20000
+nbr_iter = 10
