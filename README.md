@@ -8,4 +8,5 @@
 </p>
 
 ## Lattice and dual lattice
+![schema](https://user-images.githubusercontent.com/49154901/113319108-66999380-9311-11eb-8943-d034e440860d.png)
 
