@@ -1,3 +1,5 @@
+[![C/C++ CI](https://github.com/kevintyloo/Latsim/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/kevintyloo/Latsim/actions/workflows/c-cpp.yml)
+
 # Latsim
 
 
