@@ -17,7 +17,3 @@ jobs:
       run: sudo apt-get install libglfw3 libglfw3-dev libxi-dev
     - name: make
       run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
