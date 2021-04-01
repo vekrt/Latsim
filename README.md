@@ -34,4 +34,4 @@ Three kind of lattices are considered: square, honeycomb and triangular (black l
 
 ![binder](https://user-images.githubusercontent.com/49154901/113342796-3660ed80-932f-11eb-8b6d-176afcc7717f.png)
 
-Binder cumulant for the Ising model, the black dashed line shows the critical temperature found in the [litterature](http://cds.cern.ch/record/746866/files/0406135.pdf).
+Binder cumulant for the Ising model, the dashed black line shows the critical temperature found in the [litterature](http://cds.cern.ch/record/746866/files/0406135.pdf).
