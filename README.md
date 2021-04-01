@@ -8,5 +8,8 @@
 </p>
 
 ## Lattice and dual lattice
+Three kind of lattices are considered: square, honeycomb and triangular (black lines). The spins (circles) are placed on the intersections. Each lattice has a dual lattice (dashed blue lines) where the spins are centered in the plaquette.
+
 ![schema](https://user-images.githubusercontent.com/49154901/113319108-66999380-9311-11eb-8943-d034e440860d.png)
 
+## Models
