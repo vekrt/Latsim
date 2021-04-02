@@ -3,9 +3,11 @@
 # Latsim
 
 <p float="left", align="center">
-  <img src="https://user-images.githubusercontent.com/49154901/113190011-26c4a480-925c-11eb-947d-e07a9a173c70.png" width="300" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49154901/113180001-87e67b00-9250-11eb-99c8-26eca989bf41.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/49154901/113406812-6e5a4600-93ac-11eb-86fd-013ba118fec2.gif" width="300" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49154901/113409376-736dc400-93b1-11eb-872a-8dddae8629df.gif" width="300" /> 
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49154901/113409995-af555900-93b2-11eb-8987-78eb8a7ca3c5.gif" width="300" /> 
 </p>
 
 ## Quick start
@@ -61,15 +63,12 @@ Key             |  Effect
 * [Calculation of the Critical Temperature for 2- and 3-Dimensional Ising Models and for2-Dimensional Potts Models Using the Transfer Matrix Method](http://cds.cern.ch/record/746866/files/0406135.pdf) J. Phys. Chem. B 2001, 105, 42, 10355–10359
 * [Cluster Monte Carlo algorithms](https://arxiv.org/abs/cond-mat/0311623v1) Werner Krauth 2003
 
-![ising](https://user-images.githubusercontent.com/49154901/113404385-5da7d100-93a8-11eb-9852-af453022fa46.gif)
 
-## GIFs
-
+## Fixed images
 
 <p float="left", align="center">
-  <img src="https://user-images.githubusercontent.com/49154901/113406812-6e5a4600-93ac-11eb-86fd-013ba118fec2.gif" width="300" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49154901/113409376-736dc400-93b1-11eb-872a-8dddae8629df.gif" width="300" /> 
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49154901/113409995-af555900-93b2-11eb-8987-78eb8a7ca3c5.gif" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/49154901/113190011-26c4a480-925c-11eb-947d-e07a9a173c70.png" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49154901/113180001-87e67b00-9250-11eb-99c8-26eca989bf41.png" width="300" /> 
 </p>
+
