@@ -16,4 +16,6 @@ jobs:
     - name: install dependencies
       run: sudo apt-get install libglfw3 libglfw3-dev libxi-dev
     - name: make
-      run: make
+      run: |
+          cd Code
+          make
