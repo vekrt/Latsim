@@ -244,8 +244,8 @@ void Triangular_lattice::update(Renderer& renderer) const {
 			shift_lattice = -1;
 		}
 
-		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i    ] = r2::vec3<float>(lattice[renderer.dim-1][i + shift_lattice], 0.0f, 0.0f);
-		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i + 1] = r2::vec3<float>(lattice[renderer.dim-1][i + shift_lattice], 0.0f, 0.0f);
-		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i + 2] = r2::vec3<float>(lattice[renderer.dim-1][i + shift_lattice], 0.0f, 0.0f);
+		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i    ] = r2::vec3<float>(lattice[i + shift_lattice][renderer.dim-1], 0.0f, 0.0f);
+		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i + 1] = r2::vec3<float>(lattice[i + shift_lattice][renderer.dim-1], 0.0f, 0.0f);
+		renderer.colours[6*(renderer.dim*renderer.dim) + 2*oddity + 3*i + 2] = r2::vec3<float>(lattice[i + shift_lattice][renderer.dim-1], 0.0f, 0.0f);
 	}
 }
