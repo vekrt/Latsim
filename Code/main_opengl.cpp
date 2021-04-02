@@ -3,7 +3,7 @@
 #include <cmath>
 #include <omp.h>
 
-#include "glad/glad.h"
+#include "glad.h"
 #include "GLFW/glfw3.h"
 #include "shader.h"
 #include "texture.h"

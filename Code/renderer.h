@@ -2,7 +2,7 @@
 #define RENDERER_CLASS_H
 
 #include <vector>
-#include "glad/glad.h"
+#include "glad.h"
 #include "GLFW/glfw3.h"
 #include <iostream>
 #include "shader.h"
