@@ -23,7 +23,7 @@ Three kind of lattices are considered: square, honeycomb and triangular (black l
 ![schema](https://user-images.githubusercontent.com/49154901/113319108-66999380-9311-11eb-8943-d034e440860d.png)
 
 ## Models
-![model](https://user-images.githubusercontent.com/49154901/113325870-3fdf5b00-9319-11eb-865b-f8bdd917f8ba.png)
+![model](https://user-images.githubusercontent.com/49154901/113402160-df95fb00-93a4-11eb-8e03-ce31931ef165.png)
 
 ## Simulation methods
 
