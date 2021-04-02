@@ -9,7 +9,7 @@
 </p>
 
 ## Quick start
-On Ubuntu
+On Ubuntu in terminal
 ```` console
 sudo apt-get install libglfw3 libglfw3-dev libxi-dev
 make main_opengl
@@ -35,6 +35,18 @@ Three kind of lattices are considered: square, honeycomb and triangular (black l
 ![binder](https://user-images.githubusercontent.com/49154901/113342796-3660ed80-932f-11eb-8b6d-176afcc7717f.png)
 
 Binder cumulant for the Ising model, the dashed black line shows the critical temperature found in the [litterature](http://cds.cern.ch/record/746866/files/0406135.pdf).
+
+## Visualisation
+
+Each plaquette of the dual lattice is rendered on screen therefore the performance becomes poorer as the size of the lattice grows. Furthermore, updates of the Wolff cluster algorithm can be slow for large lattices.
+
+Key             |  Effect
+------------    | -------------
+`AWSD`          | Left - Up - Down - RIght
+`H`             | Reset view
+`Page Up/Down`  | Zoom In/Out
+`M/L`           | More/less simualtion updates per frame
+
 
 ## TODOs
 
