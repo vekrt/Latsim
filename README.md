@@ -47,6 +47,7 @@ Key             |  Effect
 `AWSD`          | Left - Up - Down - RIght
 `H`             | Reset view
 `Page Up/Down`  | Zoom In/Out
+`Esc`           | Exit window
 `M/L`           | More/less simualtion updates per frame
 
 
