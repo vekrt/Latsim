@@ -3,11 +3,11 @@
 # Latsim
 
 <p float="left", align="center">
-  <img src="https://user-images.githubusercontent.com/49154901/113406812-6e5a4600-93ac-11eb-86fd-013ba118fec2.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/49154901/113406812-6e5a4600-93ac-11eb-86fd-013ba118fec2.gif" width="270" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/49154901/113409376-736dc400-93b1-11eb-872a-8dddae8629df.gif" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/49154901/113409376-736dc400-93b1-11eb-872a-8dddae8629df.gif" width="270" /> 
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/49154901/113409995-af555900-93b2-11eb-8987-78eb8a7ca3c5.gif" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/49154901/113409995-af555900-93b2-11eb-8987-78eb8a7ca3c5.gif" width="270" /> 
 </p>
 
 ## Quick start
