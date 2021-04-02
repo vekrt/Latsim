@@ -41,3 +41,10 @@ Binder cumulant for the Ising model, the dashed black line shows the critical te
 * [Feedback-optimized parallel tempering Monte Carlo](https://arxiv.org/abs/cond-mat/0602085) is implemented but not working for now
 * Clean the code
 * Implement Kagome lattice
+* Increase the palette size to visualise q larger than 4
+
+## Reference
+* [Entropy production at criticality in a nonequilibrium Potts model](https://iopscience.iop.org/article/10.1088/1367-2630/abb5f0/pdf) Thomas Martynec et al 2020 New J. Phys. 22 093069
+* [Monte Carlo Simulations of the 3-StatePotts Model in 2D](https://esc.fnwi.uva.nl/thesis/centraal/files/f109745660.pdf) Teun Zwart 2016
+* [Calculation of the Critical Temperature for 2- and 3-Dimensional Ising Models and for2-Dimensional Potts Models Using the Transfer Matrix Method](http://cds.cern.ch/record/746866/files/0406135.pdf) J. Phys. Chem. B 2001, 105, 42, 10355–10359
+* [Cluster Monte Carlo algorithms](https://arxiv.org/abs/cond-mat/0311623v1) Werner Krauth 2003
