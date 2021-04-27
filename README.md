@@ -13,9 +13,9 @@
 ## Quick start
 On Ubuntu in terminal
 ```` console
-sudo apt-get install libglfw3 libglfw3-dev libxi-dev
-make main_opengl
-./main_opengl config_opengl.in
+$ sudo apt-get install libglfw3 libglfw3-dev libxi-dev
+$ make main_opengl
+$ ./main_opengl config_opengl.in
 ````
 If you don't want the visualisation then run `make main` then `./main config.in threads=2` for instance and it will launch simulations with different inverse temperature.
 
